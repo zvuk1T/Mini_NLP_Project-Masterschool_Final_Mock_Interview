@@ -1,4 +1,17 @@
+# Mini project
+
+# Introduction
+
+Before starting these task, please note that they are designed to fully prepare you for your upcoming mock interview. 
+
+<aside>
+🔥 You are expected to complete each step in a well-organized notebook, documenting all code, outputs, and explanations. During the interview, you’ll be asked to discuss your approach and build upon these solutions, so it is crucial that your work is detailed and clear.
+
+</aside>
+
 # **Task 4: Natural Language Processing (NLP)**
+
+Natural Language Processing (NLP): Build an NLP pipeline for sentiment analysis using the IMDb dataset. This includes data preparation, text cleaning, converting text to numerical vectors, and training a classifier to predict sentiment.
 
 1. Load and Prepare the Dataset
     - Download the IMDb dataset [here](https://drive.google.com/file/d/1yQQsg7ExFyJvVxzB9DQ5g_18kZV8dp0J/view?usp=drive_link).
